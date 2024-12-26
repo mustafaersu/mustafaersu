@@ -8,7 +8,7 @@
 </p>
 <h2 align="left">I'm currently using:</h2><br>
 <div align="left">
-  <img src="[https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/logo-intellij-idea]" height="40" alt="Intellij Idea" />
+  <img src="https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/logo-intellij-idea" height="40" alt="Intellij Idea" />
   <img width="12" />
   <img src="[https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/icono-del-logotipo-de-visual-studio]" height="40" alt="VS Studio" />
   <img width="12" />
