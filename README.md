@@ -21,5 +21,5 @@
 <h2 align="left">You can contact with me!</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/mustafa-ersu-19a663296/" target="_blank">
-    <img src="[https://www.stickpng.com/es/img/comics-y-fantasia/scribblenauts/logotipo-de-la-aplicacion-de-linkedin]" width="40" height="40" alt="LinkedIn" />
+    <img src="https://www.stickpng.com/es/img/comics-y-fantasia/scribblenauts/logotipo-de-la-aplicacion-de-linkedin" width="40" height="40" alt="LinkedIn" />
 </div>
