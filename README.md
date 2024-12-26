@@ -10,13 +10,13 @@
 
 <h2 align="left">I'm currently using:</h2>
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" height="40" alt="IntelliJ IDEA" />
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" height="40" alt="IntelliJ IDEA" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Visual_Studio_Icon_2019.svg" height="40" alt="Visual Studio" />
+  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Visual-Studio-icon-2021.svg" height="40" alt="Visual Studio" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40" alt="VS Code" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_Studio_Icon_%282014-2019%29.svg" height="40" alt="Android Studio" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" height="40" alt="Android Studio" />
 </div>
 
 <h2 align="left">You can contact me!</h2>
