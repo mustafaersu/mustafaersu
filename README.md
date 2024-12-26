@@ -12,7 +12,7 @@
 <div align="left">
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" height="40" alt="IntelliJ IDEA" />
   <img width="12" />
-  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Visual-Studio-icon-2021.svg" height="40" alt="Visual Studio" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" height="40" alt="Visual Studio" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40" alt="VS Code" />
   <img width="12" />
