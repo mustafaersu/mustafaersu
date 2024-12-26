@@ -1,11 +1,25 @@
-👨‍💻 Senior year computer programming student at Pamukkale University.
-🔍 Related to backend, artificial intelligence, Mobile app development
-🌱 I’m currently learning Python, Deep learning and kotlin
-📫 Reach me at: mustafaersu35@hotmail.com
-⚡ I can't coding without music
+<h1 align="center">Hi! I'm Mustafa Ersu </h1>
 
-I'm currently using:
-![58480910cef1014c0b5e48f7](https://github.com/user-attachments/assets/84bcf190-2beb-4ef6-82d0-16ca4b6c635d)
-![613098d448f1e30004910187](https://github.com/user-attachments/assets/a3764c74-c2cb-4356-a545-24e1ec44dbcb)
-![62a7906ce42d729d928b1757](https://github.com/user-attachments/assets/0dace9b0-6d88-452b-a138-32a7e609360d)
-![629b71eb7c5cd817694c3227](https://github.com/user-attachments/assets/74ccc31f-b3b6-43d4-9f6c-a3471de9fd1f)
+<p align="left">👨‍💻 Senior year computer programming student at Pamukkale University.<br>
+🔍 Related to backend, artificial intelligence, Mobile app development<br>
+🌱 I’m currently learning Python, Deep learning and kotlin<br>
+📫 Reach me at: <a href="mailto:mustafaersu35@hotmail.com">mustafaersu35@hotmail.com</a><br>
+⚡ I can't coding without music<br>
+</p>
+<h2 align="left">I'm currently using:</h2><br>
+<div align="left">
+  <img src="(https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/logo-intellij-idea)" height="40" alt="Intellij Idea" />
+  <img width="12" />
+  <img src="(https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/icono-del-logotipo-de-visual-studio)" height="40" alt="VS Studio" />
+  <img width="12" />
+  <img src="(https://www.stickpng.com/es/img/iconos-logotipos-emojis/ranunculos/miniatura-del-logotipo-de-visual-studio-code)" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="(https://www.stickpng.com/es/img/deporte/estudios-de-animacion/cabeza-android)" height="40" alt="Android Studio" />
+  <img width="12" /
+</div>
+
+<h2 align="left">You can contact with me!</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/mustafa-ersu-19a663296/" target="_blank">
+    <img src="https://www.stickpng.com/es/img/comics-y-fantasia/scribblenauts/logotipo-de-la-aplicacion-de-linkedin" width="40" height="40" alt="LinkedIn" />
+</div>
